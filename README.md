@@ -13,7 +13,7 @@ Heterogeneous graph <br>
 
 
 ### Temporal Aspect
- 
+temporal information is explicit for modeling
 ### Hierarchical Aspect
 - Papers
 	- Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity
