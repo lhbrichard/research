@@ -13,7 +13,9 @@ Heterogeneous graph <br>
 
 
 ### Temporal Aspect
-temporal information is explicit for modeling
+Time information is explicit for modeling, trying to intergrated it with GCN in a way LSTM Aggregator.
+- Papers
+	- Deep spatial–temporal structure learning for rumor detection on Twitter. IJCNN 2019
 ### Hierarchical Aspect
 - Papers
 	- Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity
